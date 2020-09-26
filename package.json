@@ -24,7 +24,7 @@
     "url": "https://github.com/material-docs/material-docs-example-project/issues",
     "email": "help.materialdocs@gmail.com"
   },
-  "homepage": "https://material-docs.github.io/material-docs-example-project/",
+  "homepage": "http://example.material-docs.com/",
   "dependencies": {
     "@material-docs/core": "^0.5.2",
     "@testing-library/jest-dom": "^4.2.4",
