@@ -1,5 +1,7 @@
-<a align="center" href="http://material-docs.com">
-    <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/blob/master/images/MaterialDocsLogoOverview.png"/>
+<a href="http://material-docs.com">
+    <div align="center">
+        <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/blob/master/images/MaterialDocsLogoOverview.png"/>
+    </div>
 </a>
 <div align="center">
 </div>
