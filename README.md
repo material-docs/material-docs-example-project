@@ -6,45 +6,13 @@
 <div align="center">
 </div>
 
-# Material Docs
-### React framework for easy creating documentation site in material design style
-## Installation.
-With __npm__:  
-```
-npm install @danilandreev/material-docs
-```
-With __yarn__:  
-```
-yarn add @danilandreev/material-docs
-```
-[Read installation guide]()
-## Usage
-```jsx
-import React from "react";
-import DocsLayout from "@danilandreev/material-docs/layout/DocsLayout";
-import DocsPages from "@danilandreev/material-docs/components/DocsPages";
-import PagesGroup from "@danilandreev/material-docs/components/PagesGroup/PagesGroup";
+# Material Docs example project
+### This project was created to show Material Docs framework possibilities.  
+## Tutorials:
+* Creating Material Docs [(branch ___creating-material-docs___)](https://github.com/material-docs/material-docs-example-project/tree/creating-material-docs)
 
-
-export default function MyApp() {
-    return(
-        <DocsLayout autoMenu>
-            <DocsPages>
-                <PagesGroup name={"Getting started"}>
-
-                </PagesGroup>
-                <PagesGroup name={"Components"}>
-                    <DocsPageDemo... />
-                </PagesGroup>
-                <PagesGroup name={"APIs"}>
-                    <DocsPageAPI... />
-                </PagesGroup>
-            </DocsPages>
-        </DocsLayout>
-    );
-}
-```
-[Explore the docs]()
+## Documentation
+[Explore the docs](https://material-docs.com/)
 ## Support
 You can ask for support by email: help.materialdocs@gmail.com
 
