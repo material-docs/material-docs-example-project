@@ -1,7 +1,30 @@
 {
   "name": "material-docs-example-project",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
+  "description": "Material Docs framework example project.",
+  "keywords": [
+    "material-ui",
+    "material-docs",
+    "example-project",
+    "example",
+    "example-code",
+    "shwocase"
+  ],
+  "author": {
+    "name": "Andrieiev Danil",
+    "email": "danssg08@gmail.com",
+    "url": "https://github.com/DanilAndreev"
+  },
+  "repository": {
+    "url": "https://github.com/material-docs/material-docs-example-project.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/material-docs/material-docs-example-project/issues",
+    "email": "help.materialdocs@gmail.com"
+  },
+  "homepage": "https://material-docs.github.io/material-docs-example-project/",
   "dependencies": {
     "@material-docs/core": "^0.5.2",
     "@testing-library/jest-dom": "^4.2.4",
@@ -13,7 +36,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts docs",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
