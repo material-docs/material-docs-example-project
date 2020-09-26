@@ -10,6 +10,7 @@
 ### This project was created to show Material Docs framework possibilities.  
 ## Tutorials:
 * Creating Material Docs [(branch ___creating-material-docs___)](https://github.com/material-docs/material-docs-example-project/tree/creating-material-docs)
+* Hosting Material Docs on GitHub Pages [(branch ___hosting-on-gh-pages___)](https://github.com/material-docs/material-docs-example-project/tree/hosting-on-gh-pages)
 
 ## Documentation
 [Explore the docs](https://material-docs.com/)
