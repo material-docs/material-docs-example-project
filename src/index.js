@@ -9,6 +9,8 @@ import AutoDocsMenu from "@material-docs/core/components/AutoDocsMenu";
 import FirstPage from "./pages/FirstPage";
 import SecondPage from "./pages/SecondPage";
 import PagesGroup from "@material-docs/core/components/PagesGroup";
+import EN from "./locale/EN";
+import RU from "./locale/RU";
 
 ReactDOM.render(
     <React.StrictMode>
@@ -19,6 +21,8 @@ ReactDOM.render(
             keywords={["my", "test", "documentation"]}
             description={"This is an example documentation for Material Docs framework."}
             author={"Danil Andreev"}
+            defaultLang={EN}
+            langs={[EN, RU]}
         >
             <DocsMenu>
                 <AutoDocsMenu />
